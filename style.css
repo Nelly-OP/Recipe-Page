@@ -121,6 +121,7 @@ ol li::marker{
     display: flex;
     position: relative;
     right: 10px;
+    font-family: "Young Serif", sans-serif;
 }
 .instructions{
     color: hsl(14, 45%, 36%);
@@ -128,14 +129,17 @@ ol li::marker{
     display: flex;
     position: relative;
     right: 10px; 
+    font-family: "Young Serif", sans-serif;
 }
 .nutrition{
     color: hsl(14, 45%, 36%);
     font-size: 25px;
+    font-weight: 500;
     display: flex;
     position: relative;
     right: 10px;
     margin-bottom: 40px;
+    font-family: "Young Serif", sans-serif;
 }
 .nutri{
     font-family: "Outfit", sans-serif;
