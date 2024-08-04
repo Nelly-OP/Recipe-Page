@@ -118,6 +118,7 @@ ol li::marker{
 .ingredients{
     color: hsl(14, 45%, 36%);
     font-size: 25px;
+    font-weight: 500;
     display: flex;
     position: relative;
     right: 10px;
@@ -126,6 +127,7 @@ ol li::marker{
 .instructions{
     color: hsl(14, 45%, 36%);
     font-size: 25px;
+    font-weight: 500;
     display: flex;
     position: relative;
     right: 10px; 
